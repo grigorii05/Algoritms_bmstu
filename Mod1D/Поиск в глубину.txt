@@ -1,0 +1,63 @@
+vector<string> getNieb(const string& str, int& VisVer, vector<bool>& visited) // выводит соседей вершины
+    {
+        vector<string> Neibours;
+        for (int i = 0; i < ribs.size(); i++)
+        {
+            if (ribs[i].first == str)
+            {
+                for (int j = 0; j < visited.size(); j++) {
+                    if (visited[j] == false && vertexes[j] == ribs[i].second)
+                    {
+                        Neibours.push_back(ribs[i].second);
+                        visited[j] = true;
+                        VisVer++;
+                    }
+                }
+            }
+        }
+        sort(Neibours.begin(), Neibours.end());
+        for (auto& i : Neibours)
+        {
+            cout << i << endl;
+        }
+        return Neibours;
+    }
+
+    void WideSearch(const string& st_ver)
+    {
+        int NumStart = 0; // номер стартовой вершины
+        for (int i = 0; i < vertexes.size(); i++)
+        {
+            if (vertexes[i] == st_ver)
+            {
+                NumStart = i;
+            }
+        }
+        int VisVer = 0; // кол-во посещенных вершин
+
+        vector<string> Vect; // вектор выведенных вершин
+        vector<string> Vect1; // вспомогательный вектор
+
+        visited[NumStart] = true;
+        cout << st_ver << endl; // выводим 1ю вершину и ее соседей
+        Vect.push_back(st_ver);
+        VisVer++;
+        Vect1 = getNieb(st_ver, VisVer, visited);
+
+        for (int i = 0; i < Vect1.size(); i++) // слияние Vect и Vect1
+        {
+            Vect.push_back(Vect1[i]);
+        }
+        string RunVer = st_ver ; // теущая вершина
+
+        for (int i = 1; i < Vect.size() - 1; i++)
+        {
+            RunVer = Vect[i];
+            Vect1 = getNieb(RunVer, VisVer, visited);
+            if (VisVer == vertexes.size()) return;
+            for (int j = 0; j < Vect1.size(); j++) // слияние Vect и Vect1
+            {
+                Vect.push_back(Vect1[j]);
+            }
+        }
+    }

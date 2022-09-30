@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopD\DopD\main.cpp(10,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopD\DopD\main.cpp(93,23): warning C4018: <: несоответствие типов со знаком и без знака
+  DopD.vcxproj -> C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopD\Debug\DopD.exe

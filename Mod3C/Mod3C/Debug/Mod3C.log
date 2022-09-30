@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod3C\Mod3C\main.cpp(189,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod3C\Mod3C\main.cpp(216,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod3C\Mod3C\main.cpp(241,39): warning C4018: <: несоответствие типов со знаком и без знака
+  Mod3C.vcxproj -> C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod3C\Debug\Mod3C.exe

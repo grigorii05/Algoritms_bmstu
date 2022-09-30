@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopB\DopB\main.cpp(17,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopB\DopB\main.cpp(64): warning C4715: Bin::find: значение возвращается не при всех путях выполнения
+  DopB.vcxproj -> C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopB\Debug\DopB.exe

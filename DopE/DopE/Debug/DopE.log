@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopE\DopE\main.cpp(8,56): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopE\DopE\main.cpp(21,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopE\DopE\main.cpp(27,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopE\DopE\main.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
+  DopE.vcxproj -> C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\DopE\Debug\DopE.exe

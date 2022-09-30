@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(16,15): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(25,15): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(38,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(40,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(68,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(74,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(131,33): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(203,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(205,139): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Mod2C\main.cpp(221,19): warning C4018: >: несоответствие типов со знаком и без знака
+  Mod2C.vcxproj -> C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2C\Debug\Mod2C.exe

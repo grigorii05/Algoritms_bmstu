@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2A\Mod2A\main.cpp(14,56): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2A\Mod2A\main.cpp(27,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2A\Mod2A\main.cpp(33,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2A\Mod2A\main.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Mod2A.vcxproj -> C:\Users\Admin\Desktop\Учеба\Алгоритмы и структуры данных\Mod2A\Debug\Mod2A.exe
